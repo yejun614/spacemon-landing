@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "https://images.unsplash.com/photo-1527769929977-c341ee9f2033?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "title": "Portfolio site",
+    "text": "포트폴리오 반응형 웹 사이트 입니다.",
+    "link": "https://github.com/yejun614/spacemon-landing"
+  },
+  {
+    "id": 2,
+    "imgSrc": "https://github.com/yejun614/algorithm-solve/raw/main/background.jpg",
+    "title": "Algorithm Solve",
+    "text": "알고리즘과 자료구조를 공부하고 문제 풀이를 공유하는 저장소 입니다.",
+    "link": "https://github.com/yejun614/algorithm-solve"
+  },
+  {
+    "id": 3,
+    "imgSrc": "https://github.com/yejun614/breakout-sdl/raw/main/assets/screenshots/screenshot2.png",
+    "title": "Breakout Game (SDL2)",
+    "text": "게임 엔진인 SDL2와 C++언어를 이용해서 만든 블록깨기 게임 입니다. SDL2와 STL를 연습하기 좋은 프로젝트 입니다.",
+    "link": "https://github.com/yejun614/breakout-sdl"
+  }
+]
